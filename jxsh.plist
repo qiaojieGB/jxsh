@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.luyaoschool.app</string>
+				<string>com.jingxiang.gamebattle</string>
 				<key>bundle-version</key>
 				<string>2.8.2.0</string>
 				<key>kind</key>
